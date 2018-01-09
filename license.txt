@@ -1,0 +1,2 @@
+
+gcc-arm-path=/usr/local/arm/cross/am335xt3/devkit/bin
